@@ -1,17 +1,20 @@
-<img height="400" width="500" alt="GIF" align="right" src="/images/Pixel_Mei_Motion.gif">
-
 # 👋 Hi, I'm Mei Shih ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-💼-brightgreen)
-
 💻 **Full-Stack Software Engineer** | 🎨 **Pixel Artist** | 💼 **Open to New Opportunities**
-
-
+  
 ## 📖 About Me  
-- 🌟 Passionate about crafting scalable, user-friendly applications  
-- 🖥 Former Full-Stack Engineer at **Alucio**  
-- 🎓 Associate of Arts in **Fashion Design** (FiDM) & **App Academy** graduate  
-- 🎨 Enjoy blending creativity and tech through **pixel art and design**  
-- 🌐 Personal Website: [meiys.me](https://meiys.me)  
+<img hight="400" width="500" alt="GIF" align="right" src="/images/Pixel_Mei_Motion.gif">
 
+<br/>
+
+- 🌟 Passionate about crafting scalable, user-friendly applications  
+- 💼 Former Full-Stack Engineer at **Alucio**  
+- 🎓 Associate of Arts in **Fashion Design** (FiDM) & **App Academy** graduate  
+- 🎨 Enjoy blending creativity and tech through **pixel art and design**
+- 🌱 Adaptable problem-solver with a strong eye for design and detail
+- 🤝 Known for collaborative teamwork, creativity, and delivering polished user experiences
+- 🚀 Always curious and driven to learn new technologies and approaches
+- 🌐 Personal Website: [meiys.me](https://meiys.me)  
+<br/>
 
 ## 🚀 What I'm Working On  
 - 🛠 **Rebuilding my personal website** for a fresh, modern look  
