@@ -17,7 +17,8 @@
 <br/>
 
 ## 🚀 What I'm Working On  
-- 🛠 **Rebuilding my personal website** for a fresh, modern look  
+- 🛠 **Rebuilding my personal website** for a fresh, modern look
+- Re-architected my previous project from my old github account [MeiMeiYS](https://github.com/MeiMeiYS), transitioned infrastructure to Firebase, and launched new feature enhancements.
 - ✍️ **Planning my next project** (open to collaboration ideas!)  
 - 📚 Continuously improving my development skills  
 
